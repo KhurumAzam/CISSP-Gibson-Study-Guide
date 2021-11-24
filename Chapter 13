@@ -27,3 +27,9 @@ Managing Identification and Authentication (Page 641-642)
    o	All subjects must have unique identities.
   •	Authentication: Verifies the subject’s identity by comparing one or more factors against a database or valid identities. 
    o	Authentication information MUST be private and protected
+
+Comparing Subjects and Objects (Page 642-643)
+  •	Access is the transfer of information from an object to a subject, which makes it important to understand the definition of both subject and object.
+  •	Subject: A subject is an active entity that accesses a passive object to receive information from, or data about, an object. Subjects can be users, programs, processes, services, computers, or anything else that can access a resource.
+  •	Object: An object is a passive entity that provides information to active subjects. Examples of objects are files, databases, computers, programs, processes, services, printers, and storage media.
+
