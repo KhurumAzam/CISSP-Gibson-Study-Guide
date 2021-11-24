@@ -58,3 +58,11 @@ Authorization and Accountability (Page 644)
     •	Auditing, logging, and monitoring provide accountability by ensuring that subjects can be held accountable for their actions. Auditing is the process of tracking and recording subject activities within logs.
     •	Logs: Record actions taken by an identity if when and where this took place. One or more logs provides an audit trail to reconstruct events and activities conducted by the identity to hold people accountable for security violations. 
 
+Authentication Factors Overview:
+  •	Something you know: The something you know factor of authentication includes memorized secrets such as a password, personal identification number (PIN), or passphrase.
+  •	Something you have: The something you have factor of authentication includes physical devices that a user possesses and can help them provide authentication.
+  •	Something you are: The something you are factor of authentication uses physical characteristics of a person and is based on biometrics.
+  •	Single-Factor Authentication: Uses only one factor of authentication from “Something you know,” “Something you have,” and “Something you are.”
+  •	Multifactor authentication: Uses two or more authentication factors from “Something you know,” “Something you have,” and “Something you are.”
+  •	Somewhere you are: The somewhere you are factor identifies a subject's location based on a specific computer, a geographic location identified by an Internet Protocol (IP) address, or a phone number identified by Caller ID.
+  •	Context-Aware Authentication: It can identify multiple attributes such as the user's location, the time of day, and the mobile device. If the user meets all the requirements (location, time, and type of device in this example), it allows the user to log on using the other methods, such as with a username and password.
