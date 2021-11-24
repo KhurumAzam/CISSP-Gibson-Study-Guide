@@ -16,3 +16,14 @@ Controlling Physical and Logical Access (Page 640)
   •	Logical Access Controls are the technical controls used to protect access to Information, systems, devices, and applications. They include authentication, authorization, and permissions. 
 
 The CIA Triad and Access Controls (Page 640-641)
+  •	There are three categories of IT Loss: Confidentiality, Integrity, and Availability (CIA).
+   o	Confidentiality: Access Controls help ensure that only authorized subjects can access objects.
+      	When unauthorized entities can access systems or data, it results in a loss of confidentiality.
+   o	Integrity: Ensures that data or system configurations are not modified without authorizations, or if unauthorized changes occur, security controls detect the changes.
+   o	Availability: Authorized requests for objects must be granted to subjects within a reasonable amount of time. If systems are not operational or the data is not accessible, it results in a loss of availability. 
+
+Managing Identification and Authentication (Page 641-642)
+  •	Identification: The process of a subject claiming, or professing, and identity. The subject providing an identity will start the authentication, authorization, and accountability processes. This can be typing a username, smartcard, phrase, or biometric input (finger, hand, or eye).
+   o	All subjects must have unique identities.
+  •	Authentication: Verifies the subject’s identity by comparing one or more factors against a database or valid identities. 
+   o	Authentication information MUST be private and protected
