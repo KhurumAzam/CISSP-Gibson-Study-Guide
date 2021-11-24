@@ -58,7 +58,7 @@ Authorization and Accountability (Page 644)
     •	Auditing, logging, and monitoring provide accountability by ensuring that subjects can be held accountable for their actions. Auditing is the process of tracking and recording subject activities within logs.
     •	Logs: Record actions taken by an identity if when and where this took place. One or more logs provides an audit trail to reconstruct events and activities conducted by the identity to hold people accountable for security violations. 
 
-Authentication Factors Overview:
+Authentication Factors Overview (Page 645-646)
   •	Something you know: The something you know factor of authentication includes memorized secrets such as a password, personal identification number (PIN), or passphrase.
   •	Something you have: The something you have factor of authentication includes physical devices that a user possesses and can help them provide authentication.
   •	Something you are: The something you are factor of authentication uses physical characteristics of a person and is based on biometrics.
