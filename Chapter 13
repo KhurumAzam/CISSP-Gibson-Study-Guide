@@ -1,0 +1,18 @@
+#Chapter 13
+
+Controlling Access to Assets (Page 639-640)
+  •	Tangible: assets refer to things you can touch, such as physical equipment.
+  •	Intangible: assets refer to information and data, such as intellectual property
+  •	Assets within an Organization
+    o Information – An organization’s information includes all its data.
+    o Logical access controls attempt to prevent unauthorized access to the information.
+    o	Systems - An organization’s systems include any IT systems that provide one or more services
+    o	Devices - Devices refer to any computing system, including routers, switches, servers, desktop computers, portable laptop computers, tablets, smartphones, and external devices such as printers
+    o	Facilities - An organization’s facilities include any physical location that it owns or rents.
+    o	Applications - Applications frequently provide access to an organization’s data.
+
+Controlling Physical and Logical Access (Page 640)
+  •	Physical Security Controls protect Systems, Devices, and Facilities by controlling access and controlling the environment.
+  •	Logical Access Controls are the technical controls used to protect access to Information, systems, devices, and applications. They include authentication, authorization, and permissions. 
+
+The CIA Triad and Access Controls (Page 640-641)
