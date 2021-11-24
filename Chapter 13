@@ -46,3 +46,15 @@ Registration, Proofing, and Establishment of Identity (Page 643-644)
     o	What is the color of your first car?
     o	What is the name of your first pet?
 
+Authorization and Accountability (Page 644)
+  •	Authorization: Subjects are granted access to objects based on proven identities
+  •	Accountability: Users and other subjects can be held accountable for their actions when auditing is implemented. 
+    o	Auditing: Tracks subjects and records when they access objects, creating an audit trail in one or more audit logs.
+
+  Authorization (Page 644-645)
+    •	Authorization indicates who is trusted to perform specific operations. If the action is allowed, the subject is authorized; if disallowed, the subject is not authorized.
+
+  Accountability (Page 645)
+    •	Auditing, logging, and monitoring provide accountability by ensuring that subjects can be held accountable for their actions. Auditing is the process of tracking and recording subject activities within logs.
+    •	Logs: Record actions taken by an identity if when and where this took place. One or more logs provides an audit trail to reconstruct events and activities conducted by the identity to hold people accountable for security violations. 
+
