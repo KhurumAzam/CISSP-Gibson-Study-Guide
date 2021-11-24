@@ -33,3 +33,16 @@ Comparing Subjects and Objects (Page 642-643)
   •	Subject: A subject is an active entity that accesses a passive object to receive information from, or data about, an object. Subjects can be users, programs, processes, services, computers, or anything else that can access a resource.
   •	Object: An object is a passive entity that provides information to active subjects. Examples of objects are files, databases, computers, programs, processes, services, printers, and storage media.
 
+Registration, Proofing, and Establishment of Identity
+  •	Establishment of Identity: Providing documentation such including physical documents (passport, driver’s license, birth certificate, etc.). 
+  •	Registration: Providing an identify and authentication access within an organization to a user; this can be setting up a username and password.
+  •	Knowledge-based Authentication (KBA) – Information for identity proofing someone new such including information about themselves. 
+    o	Example questions for this authentication:
+      	Which of the following vehicles have you recently purchased?
+      	How much is your car payment?
+      	How much is your mortgage (or rental) payment?
+  •	Cognitive password (Security Questions): Questions which challenge the user’s authentication process which only the registered identity user knows. Example questions:
+    o	What is your favorite sport?
+    o	What is the color of your first car?
+    o	What is the name of your first pet?
+
