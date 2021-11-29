@@ -1,0 +1,38 @@
+Security 101
+	- Information technology (IT) or even information systems (IS) is the hardware and software that support the operations or functions of a business. Security is the business management tool that ensures the reliable and protected operation of IT/IS.
+
+	- Risk assessment is a process of identifying assets, threats, and vulnerabilities, and then using that information to calculate risk.
+
+	- Vulnerability assessment uses automated tools to locate known security weaknesses, which can be addressed by adding in more defenses or adjusting the existing protections.
+
+	- Penetration testing uses trusted individuals to stress-test the security infrastructure to find issues that may not be discovered by the prior two means, with the goal of finding those concerns before an adversary takes advantage of them.
+
+Understand and Apply Security Concepts
+
+	- Confidentiality is the concept of the measures used to ensure the protection of the secrecy of data, objects, or resources. The goal of confidentiality protection is to prevent or minimize unauthorized access to data. Confidentiality protections prevent disclosure while protecting authorized access.
+
+	- Numerous countermeasures can help ensure confidentiality against possible threats. These include encryption, network traffic padding, strict access control, rigorous authentication procedures, data classification, and extensive personnel training.
+
+	Sensitivity 
+		-Sensitivity refers to the quality of information, which could cause harm or damage if disclosed.
+
+	Discretion 
+		- Discretion is an act of decision where an operator can influence or control disclosure in order to minimize harm or damage.
+
+	Criticality 
+		- The level to which information is mission critical is its measure of criticality. The higher the level of criticality, the more likely the need to maintain the confidentiality of the information.
+
+	Concealment 
+		- Concealment is the act of hiding or preventing disclosure. Often concealment is viewed as a means of cover, obfuscation, or distraction. A related concept to concealment is security through obscurity, which is the concept of attempting to gain protection through hiding, silence, or secrecy.
+
+	Secrecy 
+		- Secrecy is the act of keeping something a secret or preventing the disclosure of information.
+
+	Privacy 
+		- Privacy refers to keeping information confidential that is personally identifiable or that might cause harm, embarrassment, or disgrace to someone if revealed.
+
+	Seclusion 
+		- Seclusion involves storing something in an out-of-the-way location, likely with strict access controls.
+
+	Isolation 
+		- Isolation is the act of keeping something separated from others.
